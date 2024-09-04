@@ -1,1 +1,3 @@
-<h1 style='text-align:center'>hello</h1>
+<div style="display: flex; justify-content: center;">
+    <div>Centered div</div>
+</div>
