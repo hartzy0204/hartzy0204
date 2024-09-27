@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a PHP Fullstack developer
+I'm a Full Snack developer
 
 ![contribution](https://raw.githubusercontent.com/nhedger/nhedger/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only) 
 
