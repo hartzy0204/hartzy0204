@@ -7,11 +7,8 @@
   </div>
 </div>
 
-<div align="center">
-  <p>When your code works but you don't know why</p>
-  <div>
-    <img height="400px" src="https://i.giphy.com/3o6fJgEOrF1lky8WFa.webp">
-  </div>
+<div align="right">
+  <img height="400px" src="https://i.giphy.com/3o6fJgEOrF1lky8WFa.webp">
 </div>
 
 
